@@ -18,8 +18,6 @@ In addition to my academic pursuits, I am committed to continuous learning. Duri
 - 🔍 Exploring advanced concepts in Big Data analytics.
 - 🛡️ Strengthening my skills in cybersecurity to contribute to a safer digital environment.
 
-## Connect with Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lawrence-lee-6a77851b3)
 
 ## Let's Learn and Grow Together!
 I'm always open to collaboration, learning new things, and sharing experiences. If you have any interesting projects, ideas, or just want to chat, feel free to reach out. Let's build a community of continuous learners and problem solvers! 🌱✨
