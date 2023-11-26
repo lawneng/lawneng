@@ -1,9 +1,3 @@
-### Hi there 👋
-
-Certainly! A README file on GitHub is a great way to introduce yourself and showcase your interests and skills. Here's a template you can use:
-
----
-
 # Lawrence Lee Zhi Chong - GitHub README
 
 ## Introduction
